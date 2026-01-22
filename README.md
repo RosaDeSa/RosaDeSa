@@ -2,7 +2,7 @@
 # RosaDeSa
 
 ##                                           Hi there! I'm Rosa👋
-                                       I'm a PhD candidate in Computational and QUantitative biology 🧬 
+                                       I'm a Postdoctoral researche with a PhD in Computational and QUantitative biology 🧬 
 
 
 - 🔭 I developed Nextflow pipeline to detect germline/somatic mutations in target panel genes
